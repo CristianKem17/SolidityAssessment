@@ -56,7 +56,6 @@ Once the contract is deployed, you can interact with it by calling the sayHello 
 ## Authors
 
 CristianKem17
-A student in National Teachers College
 
 ## License
 
