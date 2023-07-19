@@ -2,14 +2,14 @@
 
 Hello, My name is Cristian Kem D. Morales. A 2nd-year student at the National Teachers College.
 
-# Hello World
+# Mint/Burn Tokens
 
 This Solidity program is simple and demonstrates the mint and burn functions in the Solidity programming language. 
 
 
 ## Description
 
-This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. The contract has a two function that is to mint the tokens and burn the tokens. This program serves as an assessment to Solidity programming, and can be used as a stepping stone for more complex projects in the future.
+This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. The contract has two functions: to mint the tokens and to burn the tokens. This program serves as an assessment of Solidity programming, and can be used as a stepping stone for more complex projects in the future.
 
 ## Getting Started
 
@@ -19,6 +19,8 @@ Once you are on the Remix website, create a new file by clicking on the "+" icon
 
 ```javascript
 // SPDX-License-Identifier: MIT
+pragma solidity 0.8.18;
+
 contract MyToken {
 
     // public variables here
